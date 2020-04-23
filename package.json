@@ -1,0 +1,20 @@
+{
+  "name": "equiv",
+  "version": "1.0.0",
+  "description": "My stylish Nuxt.js project",
+  "author": "G0dlikecoder",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-leaflet": "0.0.21"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
